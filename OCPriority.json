@@ -36,7 +36,12 @@
     "7": [
       { "scenario": "Blast from the Past", "level": 7, "role": "Bomber", "minCPR": 75 },
       { "scenario": "Blast from the Past", "level": 7, "role": "Picklock #1", "minCPR": 70 },
-      { "scenario": "Blast from the Past", "level": 7, "role": "Hacker", "minCPR": 70 }
+      { "scenario": "Blast from the Past", "level": 7, "role": "Hacker", "minCPR": 70 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 75 }
     ],
     "991": [ 
       { "scenario": "Break the Bank", "level": 8, "role": "Thief #1", "minCPR": 50 }
@@ -66,6 +71,6 @@
     "10": 0,
     "9": 2,
     "8": 8,
-    "7": 7
+    "7": 8
   }
 }
