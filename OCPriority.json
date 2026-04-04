@@ -98,7 +98,9 @@
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true
+          "allow": true,
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 36
         }
       },
       "Clinical Precision": {
