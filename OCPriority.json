@@ -118,7 +118,7 @@
         "join": {
           "allow": true,
           "minHoursBeforeStall": 0,
-          "maxHoursBeforeStall": 24
+          "maxHoursBeforeStall": 36
         }
       },
       "Window of Opportunity": {
@@ -127,7 +127,7 @@
         "join": {
           "allow": true,
           "minHoursBeforeStall": 0,
-          "maxHoursBeforeStall": 24
+          "maxHoursBeforeStall": 36
         }
       },
       "Manifest Cruelty": {
