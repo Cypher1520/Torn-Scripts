@@ -98,9 +98,7 @@
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true,
-          "minHoursBeforeStall": 0,
-          "maxHoursBeforeStall": 36
+          "allow": true
         }
       },
       "Clinical Precision": {
@@ -118,7 +116,7 @@
         "join": {
           "allow": true,
           "minHoursBeforeStall": 0,
-          "maxHoursBeforeStall": 36
+          "maxHoursBeforeStall": 24
         }
       },
       "Window of Opportunity": {
@@ -127,7 +125,7 @@
         "join": {
           "allow": true,
           "minHoursBeforeStall": 0,
-          "maxHoursBeforeStall": 36
+          "maxHoursBeforeStall": 24
         }
       },
       "Manifest Cruelty": {
@@ -155,5 +153,7 @@
     "9": 2,
     "8": 15,
     "7": 10
-  }
+  },
+  "usageLogging": "yes", 
+  "treatAsStalled": 6
 }
