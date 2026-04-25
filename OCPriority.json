@@ -154,6 +154,6 @@
     "8": 15,
     "7": 10
   },
-  "usageLogging": "yes", 
+  "usageLogging": "no", 
   "treatAsStalled": 6
 }
