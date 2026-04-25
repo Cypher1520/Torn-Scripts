@@ -11,8 +11,8 @@
     ],
     "3": [
       { "scenario": "Ace in the Hole", "level": 9, "role": "Driver", "minCPR": 55 },
-      { "scenario": "Break the Bank", "level": 8, "role": "Muscle #3", "minCPR": 70 },
-      { "scenario": "Break the Bank", "level": 8, "role": "Thief #2", "minCPR": 70 }
+      { "scenario": "Break the Bank", "level": 8, "role": "Muscle #3", "minCPR": 72 },
+      { "scenario": "Break the Bank", "level": 8, "role": "Thief #2", "minCPR": 72 }
     ],
     "4": [
       { "scenario": "Stacking the Deck", "level": 8, "role": "Imitator", "minCPR": 72 },
