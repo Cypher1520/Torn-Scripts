@@ -26,7 +26,12 @@
       { "scenario": "Stacking the Deck", "level": 8, "role": "Hacker", "minCPR": 68 },
       { "scenario": "Clinical Precision", "level": 8, "role": "Cat Burglar", "minCPR": 72 },
       { "scenario": "Clinical Precision", "level": 8, "role": "Cleaner", "minCPR": 72 },
-      { "scenario": "Clinical Precision", "level": 8, "role": "Assassin", "minCPR": 70 }    
+      { "scenario": "Clinical Precision", "level": 8, "role": "Assassin", "minCPR": 70 },
+      { "scenario": "Lock Stock", "level": 9, "role": "Assassin", "minCPR": 73 },
+      { "scenario": "Lock Stock", "level": 9, "role": "Hacker", "minCPR": 73 },
+      { "scenario": "Lock Stock", "level": 9, "role": "Muscle #1", "minCPR": 73 },
+      { "scenario": "Lock Stock", "level": 9, "role": "Muscle #2", "minCPR": 73 },
+      { "scenario": "Lock Stock", "level": 9, "Smuggler": "Assassin", "minCPR": 73 }
     ],
     "6": [
       { "scenario": "Blast from the Past", "level": 7, "role": "Muscle", "minCPR": 80 },
