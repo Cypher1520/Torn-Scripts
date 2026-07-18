@@ -17,7 +17,7 @@
       { "scenario": "Hostile Takeover", "level": 9, "role": "Hacker", "minCPR": 66 },
       { "scenario": "Hostile Takeover", "level": 9, "role": "Kidnapper", "minCPR": 66 },
       { "scenario": "Hostile Takeover", "level": 9, "role": "Muscle", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 66 }
     ],
     "4": [
       { "scenario": "Stacking the Deck", "level": 8, "role": "Imitator", "minCPR": 72 },
@@ -95,6 +95,14 @@
           "allow": true
         }
       },
+      "scenarios": {
+      "Hostile Takeover": {
+        "start": "allow",
+        "selectionOrder": "start-first",
+        "join": {
+          "allow": true
+        }
+      },
       "Break the Bank": {
         "start": "allow",
         "selectionOrder": "start-first",
@@ -105,6 +113,13 @@
         }
       },
       "Stacking the Deck": {
+        "start": "allow",
+        "selectionOrder": "start-first",
+        "join": {
+          "allow": true
+        }
+      },
+      "Lock Stock": {
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
