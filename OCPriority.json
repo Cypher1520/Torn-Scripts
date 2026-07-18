@@ -7,12 +7,17 @@
       { "scenario": "Ace in the Hole", "level": 9, "role": "Imitator", "minCPR": 65 },
       { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #2", "minCPR": 66 },
       { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #1", "minCPR": 65 }
-
     ],
     "3": [
       { "scenario": "Ace in the Hole", "level": 9, "role": "Driver", "minCPR": 55 },
       { "scenario": "Break the Bank", "level": 8, "role": "Muscle #3", "minCPR": 72 },
-      { "scenario": "Break the Bank", "level": 8, "role": "Thief #2", "minCPR": 72 }
+      { "scenario": "Break the Bank", "level": 8, "role": "Thief #2", "minCPR": 72 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Cat Burglar", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Engineer", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Hacker", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Kidnapper", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Muscle", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 66 },
     ],
     "4": [
       { "scenario": "Stacking the Deck", "level": 8, "role": "Imitator", "minCPR": 72 },
@@ -42,10 +47,10 @@
       { "scenario": "Blast from the Past", "level": 7, "role": "Bomber", "minCPR": 75 },
       { "scenario": "Blast from the Past", "level": 7, "role": "Picklock #1", "minCPR": 70 },
       { "scenario": "Blast from the Past", "level": 7, "role": "Hacker", "minCPR": 70 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 70 },
       { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 75 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 75 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 78 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 78 },
       { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 75 }
     ],
     "991": [ 
