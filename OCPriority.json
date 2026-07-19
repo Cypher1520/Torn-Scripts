@@ -95,7 +95,6 @@
           "allow": true
         }
       },
-      "scenarios": {
       "Hostile Takeover": {
         "start": "allow",
         "selectionOrder": "start-first",
@@ -112,14 +111,14 @@
           "maxHoursBeforeStall": 36
         }
       },
-      "Stacking the Deck": {
+      "Lock Stock": {
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
           "allow": true
         }
       },
-      "Lock Stock": {
+      "Stacking the Deck": {
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
@@ -176,9 +175,9 @@
   "maxCount": {
     "10": 0,
     "9": 2,
-    "8": 99,
-    "7": 8
+    "8": 15,
+    "7": 10
   },
-  "usageLogging": "no", 
+  "usageLogging": "yes", 
   "treatAsStalled": 6
 }
