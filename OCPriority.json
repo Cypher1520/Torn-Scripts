@@ -6,18 +6,18 @@
     "2": [
       { "scenario": "Ace in the Hole", "level": 9, "role": "Imitator", "minCPR": 65 },
       { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #2", "minCPR": 66 },
-      { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #1", "minCPR": 65 }
-    ],
-    "3": [
-      { "scenario": "Ace in the Hole", "level": 9, "role": "Driver", "minCPR": 55 },
-      { "scenario": "Break the Bank", "level": 8, "role": "Muscle #3", "minCPR": 72 },
-      { "scenario": "Break the Bank", "level": 8, "role": "Thief #2", "minCPR": 72 },
+      { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #1", "minCPR": 65 },
       { "scenario": "Hostile Takeover", "level": 9, "role": "Cat Burglar", "minCPR": 66 },
       { "scenario": "Hostile Takeover", "level": 9, "role": "Engineer", "minCPR": 66 },
       { "scenario": "Hostile Takeover", "level": 9, "role": "Hacker", "minCPR": 66 },
       { "scenario": "Hostile Takeover", "level": 9, "role": "Kidnapper", "minCPR": 66 },
       { "scenario": "Hostile Takeover", "level": 9, "role": "Muscle", "minCPR": 66 },
       { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 66 }
+    ],
+    "3": [
+      { "scenario": "Ace in the Hole", "level": 9, "role": "Driver", "minCPR": 55 },
+      { "scenario": "Break the Bank", "level": 8, "role": "Muscle #3", "minCPR": 72 },
+      { "scenario": "Break the Bank", "level": 8, "role": "Thief #2", "minCPR": 72 }
     ],
     "4": [
       { "scenario": "Stacking the Deck", "level": 8, "role": "Imitator", "minCPR": 72 },
