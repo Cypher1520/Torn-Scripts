@@ -6,13 +6,7 @@
     "2": [
       { "scenario": "Ace in the Hole", "level": 9, "role": "Imitator", "minCPR": 65 },
       { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #2", "minCPR": 66 },
-      { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #1", "minCPR": 65 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Cat Burglar", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Engineer", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Hacker", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Kidnapper", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Muscle", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 66 }
+      { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #1", "minCPR": 65 }
     ],
     "3": [
       { "scenario": "Ace in the Hole", "level": 9, "role": "Driver", "minCPR": 55 },
@@ -21,7 +15,13 @@
     ],
     "4": [
       { "scenario": "Stacking the Deck", "level": 8, "role": "Imitator", "minCPR": 72 },
-      { "scenario": "Clinical Precision", "level": 8, "role": "Imitator", "minCPR": 75 }
+      { "scenario": "Clinical Precision", "level": 8, "role": "Imitator", "minCPR": 75 },      
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Cat Burglar", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Engineer", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Hacker", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Kidnapper", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Muscle", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 66 }
     ],
     "5": [
       { "scenario": "Break the Bank", "level": 8, "role": "Robber", "minCPR": 65 },
@@ -32,11 +32,11 @@
       { "scenario": "Clinical Precision", "level": 8, "role": "Cat Burglar", "minCPR": 72 },
       { "scenario": "Clinical Precision", "level": 8, "role": "Cleaner", "minCPR": 72 },
       { "scenario": "Clinical Precision", "level": 8, "role": "Assassin", "minCPR": 70 },
-      { "scenario": "Lock Stock", "level": 9, "role": "Assassin", "minCPR": 73 },
-      { "scenario": "Lock Stock", "level": 9, "role": "Hacker", "minCPR": 73 },
-      { "scenario": "Lock Stock", "level": 9, "role": "Muscle #1", "minCPR": 73 },
-      { "scenario": "Lock Stock", "level": 9, "role": "Muscle #2", "minCPR": 73 },
-      { "scenario": "Lock Stock", "level": 9, "Smuggler": "Assassin", "minCPR": 73 }
+      { "scenario": "Lock Stock", "level": 8, "role": "Assassin", "minCPR": 73 },
+      { "scenario": "Lock Stock", "level": 8, "role": "Hacker", "minCPR": 73 },
+      { "scenario": "Lock Stock", "level": 8, "role": "Muscle #1", "minCPR": 73 },
+      { "scenario": "Lock Stock", "level": 8, "role": "Muscle #2", "minCPR": 73 },
+      { "scenario": "Lock Stock", "level": 8, "role": "Smuggler", "minCPR": 73 }
     ],
     "6": [
       { "scenario": "Blast from the Past", "level": 7, "role": "Muscle", "minCPR": 80 },
@@ -84,7 +84,7 @@
       "join": {
         "allow": true,
         "minHoursBeforeStall": 0,
-        "maxHoursBeforeStall": 48
+        "maxHoursBeforeStall": 36
       }
     },
     "scenarios": {
@@ -106,9 +106,7 @@
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true,
-          "minHoursBeforeStall": 0,
-          "maxHoursBeforeStall": 36
+          "allow": true
         }
       },
       "Lock Stock": {
@@ -129,9 +127,7 @@
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true,
-          "minHoursBeforeStall": 0,
-          "maxHoursBeforeStall": 36
+          "allow": true
         }
       },
       "Blast from the Past": {
@@ -174,10 +170,10 @@
   },
   "maxCount": {
     "10": 0,
-    "9": 4,
+    "9": 2,
     "8": 12,
     "7": 10
   },
-  "usageLogging": "yes", 
+  "usageLogging": "no", 
   "treatAsStalled": 6
 }
