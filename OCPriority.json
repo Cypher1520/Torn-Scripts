@@ -24,9 +24,9 @@
       { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 66 }
     ],
     "5": [
-      { "scenario": "Break the Bank", "level": 8, "role": "Robber", "minCPR": 65 },
-      { "scenario": "Break the Bank", "level": 8, "role": "Muscle #1", "minCPR": 65 },
-      { "scenario": "Break the Bank", "level": 8, "role": "Muscle #2", "minCPR": 65 },
+      { "scenario": "Break the Bank", "level": 8, "role": "Robber", "minCPR": 68 },
+      { "scenario": "Break the Bank", "level": 8, "role": "Muscle #1", "minCPR": 68 },
+      { "scenario": "Break the Bank", "level": 8, "role": "Muscle #2", "minCPR": 68 },
       { "scenario": "Stacking the Deck", "level": 8, "role": "Cat Burglar", "minCPR": 68 },
       { "scenario": "Stacking the Deck", "level": 8, "role": "Hacker", "minCPR": 68 },
       { "scenario": "Clinical Precision", "level": 8, "role": "Cat Burglar", "minCPR": 72 },
