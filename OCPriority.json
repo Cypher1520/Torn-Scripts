@@ -140,10 +140,10 @@
         }
       },
       "Window of Opportunity": {
-        "start": "allow",
+        "start": "never",
         "selectionOrder": "join-first",
         "join": {
-          "allow": true,
+          "allow": false,
           "minHoursBeforeStall": 0,
           "maxHoursBeforeStall": 24
         }
