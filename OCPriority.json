@@ -47,11 +47,6 @@
       { "scenario": "Blast from the Past", "level": 7, "role": "Bomber", "minCPR": 75 },
       { "scenario": "Blast from the Past", "level": 7, "role": "Picklock #1", "minCPR": 70 },
       { "scenario": "Blast from the Past", "level": 7, "role": "Hacker", "minCPR": 70 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 70 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 75 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 78 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 78 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 75 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Assassin", "minCPR": 75 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Imitator", "minCPR": 75 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Interrogator", "minCPR": 75 },
@@ -66,6 +61,11 @@
       { "scenario": "Blast from the Past", "level": 7, "role": "Picklock #2", "minCPR": 1 }
     ],
     "9999": [ 
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 70 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 78 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 78 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 75 },
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Cat Burglar", "minCPR": 99 },
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Hacker", "minCPR": 99 },
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Interrogator", "minCPR": 99 },
@@ -156,11 +156,8 @@
       },
       "Window of Opportunity": {
         "start": "never",
-        "selectionOrder": "join-first",
         "join": {
-          "allow": false,
-          "minHoursBeforeStall": 0,
-          "maxHoursBeforeStall": 24
+          "allow": false
         }
       },
       "Manifest Cruelty": {
