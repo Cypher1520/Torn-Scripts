@@ -51,7 +51,13 @@
       { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 75 },
       { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 78 },
       { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 78 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 75 }
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 75 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Assassin", "minCPR": 75 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Imitator", "minCPR": 75 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Interrogator", "minCPR": 75 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Lookout", "minCPR": 75 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Pickpocket", "minCPR": 75 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Techie", "minCPR": 75 }
     ],
     "991": [ 
       { "scenario": "Break the Bank", "level": 8, "role": "Thief #1", "minCPR": 50 }
@@ -128,6 +134,15 @@
         "selectionOrder": "start-first",
         "join": {
           "allow": true
+        }
+      },
+      "Cleared for Takeoff": {
+        "start": "allow",
+        "selectionOrder": "join-first",
+        "join": {
+          "allow": true,
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 24
         }
       },
       "Blast from the Past": {
