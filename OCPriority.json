@@ -61,11 +61,11 @@
       { "scenario": "Blast from the Past", "level": 7, "role": "Picklock #2", "minCPR": 1 }
     ],
     "9999": [ 
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 70 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 75 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 78 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 78 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 970 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 975 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 978 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 978 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 975 },
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Cat Burglar", "minCPR": 99 },
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Hacker", "minCPR": 99 },
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Interrogator", "minCPR": 99 },
