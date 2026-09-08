@@ -157,7 +157,9 @@
       "Window of Opportunity": {
         "start": "never",
         "join": {
-          "allow": false
+          "allow": true, 
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 24
         }
       },
       "Manifest Cruelty": {
