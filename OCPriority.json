@@ -1,12 +1,18 @@
 {
   "priorities": {
     "1": [
-      { "scenario": "Ace in the Hole", "level": 9, "role": "Hacker", "minCPR": 67 }
+      { "scenario": "Ace in the Hole", "level": 9, "role": "Hacker", "minCPR": 70 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 70 }
     ],
     "2": [
-      { "scenario": "Ace in the Hole", "level": 9, "role": "Imitator", "minCPR": 65 },
-      { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #2", "minCPR": 66 },
-      { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #1", "minCPR": 65 }
+      { "scenario": "Ace in the Hole", "level": 9, "role": "Imitator", "minCPR": 68 },
+      { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #2", "minCPR": 68 },
+      { "scenario": "Ace in the Hole", "level": 9, "role": "Muscle #1", "minCPR": 67 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Engineer", "minCPR": 68 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Cat Burglar", "minCPR": 68 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Muscle", "minCPR": 68 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Kidnapper", "minCPR": 66 },
+      { "scenario": "Hostile Takeover", "level": 9, "role": "Hacker", "minCPR": 66 }
     ],
     "3": [
       { "scenario": "Ace in the Hole", "level": 9, "role": "Driver", "minCPR": 55 },
@@ -15,13 +21,8 @@
     ],
     "4": [
       { "scenario": "Stacking the Deck", "level": 8, "role": "Imitator", "minCPR": 72 },
-      { "scenario": "Clinical Precision", "level": 8, "role": "Imitator", "minCPR": 75 },      
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Cat Burglar", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Engineer", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Hacker", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Kidnapper", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Muscle", "minCPR": 66 },
-      { "scenario": "Hostile Takeover", "level": 9, "role": "Negotiator", "minCPR": 66 }
+      { "scenario": "Clinical Precision", "level": 8, "role": "Imitator", "minCPR": 77 },      
+      { "scenario": "Lock Stock", "level": 8, "role": "Assassin", "minCPR": 78 }
     ],
     "5": [
       { "scenario": "Break the Bank", "level": 8, "role": "Robber", "minCPR": 68 },
@@ -32,27 +33,26 @@
       { "scenario": "Clinical Precision", "level": 8, "role": "Cat Burglar", "minCPR": 72 },
       { "scenario": "Clinical Precision", "level": 8, "role": "Cleaner", "minCPR": 72 },
       { "scenario": "Clinical Precision", "level": 8, "role": "Assassin", "minCPR": 70 },
-      { "scenario": "Lock Stock", "level": 8, "role": "Assassin", "minCPR": 73 },
-      { "scenario": "Lock Stock", "level": 8, "role": "Hacker", "minCPR": 73 },
-      { "scenario": "Lock Stock", "level": 8, "role": "Muscle #1", "minCPR": 73 },
-      { "scenario": "Lock Stock", "level": 8, "role": "Muscle #2", "minCPR": 73 },
-      { "scenario": "Lock Stock", "level": 8, "role": "Smuggler", "minCPR": 73 }
+      { "scenario": "Lock Stock", "level": 8, "role": "Smuggler", "minCPR": 75 },
+      { "scenario": "Lock Stock", "level": 8, "role": "Hacker", "minCPR": 72 },
+      { "scenario": "Lock Stock", "level": 8, "role": "Muscle #1", "minCPR": 70 },
+      { "scenario": "Lock Stock", "level": 8, "role": "Muscle #2", "minCPR": 70 }
     ],
     "6": [
       { "scenario": "Blast from the Past", "level": 7, "role": "Muscle", "minCPR": 80 },
       { "scenario": "Blast from the Past", "level": 7, "role": "Engineer", "minCPR": 78 },
-      { "scenario": "Stacking the Deck", "level": 8, "role": "Driver", "minCPR": 55 }
+      { "scenario": "Stacking the Deck", "level": 8, "role": "Driver", "minCPR": 55 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Interrogator", "minCPR": 78 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Imitator", "minCPR": 78 }
     ],
     "7": [
       { "scenario": "Blast from the Past", "level": 7, "role": "Bomber", "minCPR": 75 },
       { "scenario": "Blast from the Past", "level": 7, "role": "Picklock #1", "minCPR": 70 },
       { "scenario": "Blast from the Past", "level": 7, "role": "Hacker", "minCPR": 70 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Assassin", "minCPR": 75 },
-      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Imitator", "minCPR": 75 },
-      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Interrogator", "minCPR": 75 },
-      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Lookout", "minCPR": 75 },
-      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Pickpocket", "minCPR": 75 },
-      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Techie", "minCPR": 75 }
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Pickpocket", "minCPR": 70 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Techie", "minCPR": 68 },
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Lookout", "minCPR": 68 }
     ],
     "991": [ 
       { "scenario": "Break the Bank", "level": 8, "role": "Thief #1", "minCPR": 50 }
@@ -184,7 +184,7 @@
   },
   "maxCount": {
     "10": 0,
-    "9": 2,
+    "9": 3,
     "8": 12,
     "7": 10
   },
