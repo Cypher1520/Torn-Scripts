@@ -98,42 +98,54 @@
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true
+          "allow": true,
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 36
         }
       },
       "Hostile Takeover": {
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true
+          "allow": true,
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 36
         }
       },
       "Break the Bank": {
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true
+          "allow": true,
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 36
         }
       },
       "Lock Stock": {
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true
+          "allow": true,
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 36
         }
       },
       "Stacking the Deck": {
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true
+          "allow": true,
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 36
         }
       },
       "Clinical Precision": {
         "start": "allow",
         "selectionOrder": "start-first",
         "join": {
-          "allow": true
+          "allow": true,
+          "minHoursBeforeStall": 0,
+          "maxHoursBeforeStall": 36
         }
       },
       "Cleared for Takeoff": {
@@ -184,7 +196,7 @@
   },
   "maxCount": {
     "10": 0,
-    "9": 3,
+    "9": 2,
     "8": 12,
     "7": 10
   },
