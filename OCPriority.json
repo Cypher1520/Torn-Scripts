@@ -36,7 +36,12 @@
       { "scenario": "Lock Stock", "level": 8, "role": "Smuggler", "minCPR": 75 },
       { "scenario": "Lock Stock", "level": 8, "role": "Hacker", "minCPR": 72 },
       { "scenario": "Lock Stock", "level": 8, "role": "Muscle #1", "minCPR": 70 },
-      { "scenario": "Lock Stock", "level": 8, "role": "Muscle #2", "minCPR": 70 }
+      { "scenario": "Lock Stock", "level": 8, "role": "Muscle #2", "minCPR": 70 },
+      { "scenario": "Ship Happens", "level": 8, "role": "Engineer", "minCPR": 70 },
+      { "scenario": "Ship Happens", "level": 8, "role": "Assassin", "minCPR": 70 },
+      { "scenario": "Ship Happens", "level": 8, "role": "Hustler", "minCPR": 70 },
+      { "scenario": "Ship Happens", "level": 8, "role": "Spy", "minCPR": 70 },
+      { "scenario": "Ship Happens", "level": 8, "role": "Interrogator", "minCPR": 70 }
     ],
     "6": [
       { "scenario": "Blast from the Past", "level": 7, "role": "Muscle", "minCPR": 80 },
