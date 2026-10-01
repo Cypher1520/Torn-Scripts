@@ -57,7 +57,7 @@
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Assassin", "minCPR": 75 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Pickpocket", "minCPR": 70 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Techie", "minCPR": 68 },
-      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Lookout", "minCPR": 68 }
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Lookout", "minCPR": 64 }
     ],
     "991": [ 
       { "scenario": "Break the Bank", "level": 8, "role": "Thief #1", "minCPR": 50 }
