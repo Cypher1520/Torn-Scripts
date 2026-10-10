@@ -48,7 +48,9 @@
       { "scenario": "Blast from the Past", "level": 7, "role": "Engineer", "minCPR": 78 },
       { "scenario": "Stacking the Deck", "level": 8, "role": "Driver", "minCPR": 55 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Interrogator", "minCPR": 78 },
-      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Imitator", "minCPR": 78 }
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Imitator", "minCPR": 78 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 78 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 78 }
     ],
     "7": [
       { "scenario": "Blast from the Past", "level": 7, "role": "Bomber", "minCPR": 75 },
@@ -57,7 +59,10 @@
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Assassin", "minCPR": 75 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Pickpocket", "minCPR": 70 },
       { "scenario": "Cleared for Takeoff", "level": 7, "role": "Techie", "minCPR": 68 },
-      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Lookout", "minCPR": 64 }
+      { "scenario": "Cleared for Takeoff", "level": 7, "role": "Lookout", "minCPR": 64 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 75 },
+      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 70 }
     ],
     "991": [ 
       { "scenario": "Break the Bank", "level": 8, "role": "Thief #1", "minCPR": 50 }
@@ -66,11 +71,7 @@
       { "scenario": "Blast from the Past", "level": 7, "role": "Picklock #2", "minCPR": 1 }
     ],
     "9999": [ 
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Engineer", "minCPR": 970 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #1", "minCPR": 975 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Looter #2", "minCPR": 978 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #1", "minCPR": 978 },
-      { "scenario": "Window of Opportunity", "level": 7, "role": "Muscle #2", "minCPR": 975 },
+
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Cat Burglar", "minCPR": 99 },
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Hacker", "minCPR": 99 },
       { "scenario": "Manifest Cruelty", "level": 8, "role": "Interrogator", "minCPR": 99 },
@@ -172,7 +173,7 @@
         }
       },
       "Window of Opportunity": {
-        "start": "never",
+        "start": "join-first",
         "join": {
           "allow": true, 
           "minHoursBeforeStall": 0,
